@@ -2,7 +2,7 @@
 
 Este é meu primeiro contato com o Next.js e para aprender um pouco mais sobre essa tecnologia segui o passo a passo que está presente na documentação.
 
-![Screenshot da tela inicial](./docs/imagem.png)
+![Screenshot da tela inicial](./docs/image.png)
 
 ## O que é Next.js?
 > O Next.js é um framework React cuja principal meta é fornecer um ótimo desempenho em produção, juntamente com uma ótima experiência de desenvolvedor. Para fornecer essa excelente experiência de desenvolvedor, o Next.js oferece suporte à renderização no lado do servidor, à divisão de código e ao roteamento no lado do cliente. [Ref.](https://www.mundojs.com.br/2018/10/02/next-js-7-liberado/#page-content)
